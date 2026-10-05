@@ -1,3 +1,10 @@
+# AI Resume Builder
+
+🚀 **Live Demo:** https://ai-resume-builder-red-chi.vercel.app
+
+AI-powered resume builder for creating professional and ATS-friendly resumes.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
